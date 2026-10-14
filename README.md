@@ -12,6 +12,11 @@ The project follows a complete analytics workflow:
 
 The project demonstrates practical skills in **Python, SQL, MySQL, Power BI, Excel-style data analysis, data visualization, and business reporting**.
 
+
+## 📊 Power BI Dashboard
+
+![Customer Behavior Analysis Dashboard](customer%20dash.png)
+
 ---
 
 ## 🎯 Project Objectives
