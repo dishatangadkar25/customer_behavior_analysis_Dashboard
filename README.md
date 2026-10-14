@@ -193,7 +193,6 @@ The analysis provides insights into:
 These insights can help businesses understand **customer behavior, product performance, discount usage, and purchasing trends**.
 
 ---
-![Uploading customer dash.png…]()
 
 
 ## 📋 Project Report
